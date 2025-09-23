@@ -1,3 +1,4 @@
+//гнекн4ек
 {
 "issuer": "https://dev.gitverse.works.sbertech.ru/auth/realms/GitVerse",
 "authorization_endpoint": "https://dev.gitverse.works.sbertech.ru/auth/realms/GitVerse/protocol/openid-connect/auth",
